@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Ousmane!
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong focus on Python, VueJS, and Artificial Intelligence, utilizing both TensorFlow and PyTorch. Here, you'll find a collection of my projects, contributions, and experiments in various fields.
+Welcome to my GitHub profile! I'm a PhD Candidate with a strong focus on Decentralized Learning. Here, you'll find a collection of my projects, contributions, and experiments in various fields.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on various AI and web development projects.
+- 🔭 I’m currently working as a PhD researcher on the topic of Resillient Decentralized Learning.
 - 🌱 I’m constantly learning and improving my skills in AI frameworks like TensorFlow and PyTorch.
 - 💬 Ask me about anything related to Python, VueJS, and AI.
 - 📫 How to reach me: ousmanetouat@outlook.com
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong focus on 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, C++, (Rust still in Learning)
 - **Frontend Frameworks:** VueJS
-- **AI Frameworks:** TensorFlow, PyTorch
+- **AI Frameworks:** TensorFlow, PyTorch, Scikit-Learning, Gossipy
 - **Other Tools:** Git, Docker, VS Code
 
 ## 📊 My GitHub Stats
