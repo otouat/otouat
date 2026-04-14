@@ -14,12 +14,6 @@ Welcome to my GitHub profile! I'm a PhD Candidate with a strong focus on Decentr
 - **AI Frameworks:** TensorFlow, PyTorch, Scikit-Learning, Gossipy, Flower,
 - **Other Tools:** Git, Docker, Jenkins, OpenShift, VS Code
 
-## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=otouat&show_icons=true&theme=radical)
-
-##  My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otouat&layout=compact&theme=radical)
-
 ---
 
  Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
